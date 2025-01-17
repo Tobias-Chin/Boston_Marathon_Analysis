@@ -5,3 +5,5 @@ In this exploration, I examined the 2015 Boston Marathon Dataset from Kaggle in 
 Tableau, file: 2015 Boston Marathon Exploration.twbx 
 
 In order to view this file you must download it and open it in the tableau desktop app as public tableau wasn't working. I created a dashboard which would allow users to filter by gender and country. One of the visuals is a map of the USA/World where you can see the density of runners from what cities they came from in order to participate in the Boston Marathon. We can see that runners come from all over the United States but with a heavy focus in the North East as it is local to the area. Given that a significant proportion of participants in the Boston Marathon come from the Northeast, how can we strategically target underrepresented regions to promote the Boston Marathon brand and create additional revenue streams or satellite events, considering the event is already over capacity from applications. 
+
+![Image](https://github.com/user-attachments/assets/d5f03bcf-7d10-4fb9-969b-252c46b713a5)
